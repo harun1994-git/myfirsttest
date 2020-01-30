@@ -5,7 +5,7 @@ from tkinter import simpledialog
 from tkinter import messagebox
 
 class Window(object):
-    #Default constructor
+    #Default constructor 
     def __init__(self,window):
 
         #Initialize database
