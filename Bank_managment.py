@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * 
 from tkinter import Scrollbar
 import app_backend as database
 from tkinter import simpledialog
